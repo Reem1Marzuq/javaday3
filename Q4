@@ -1,0 +1,8 @@
+public class Main {
+    public static void main(String[] args) {
+
+     String MyName = "Reem";
+          for (int i = 0; i < MyName.length() ; i++) {
+             System.out.println(MyName.charAt(i));
+             
+        }
